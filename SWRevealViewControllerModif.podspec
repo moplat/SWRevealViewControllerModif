@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
-  s.name          = "SWRevealViewController"
+  s.name          = "SWRevealViewControllerModif"
   s.version       = "2.4.0"
   s.summary       = "A UIViewController subclass for presenting two view controllers inspired in the Facebook app, done right."
-  s.homepage      = "https://github.com/John-Lluch/SWRevealViewController"
+  s.homepage      = "https://github.com/moplat/SWRevealViewControllerModif"
   s.license       = "MIT"
   s.author        = { "John Lluch Zorrilla" => "joan.lluch@sweetwilliamsl.com" }
   s.source        = { :git => "https://github.com/moplat/SWRevealViewControllerModif.git" }
